@@ -1,6 +1,6 @@
 # Practica GitPages Despliegue
 
-![GitHub Logo](/images_gitPages/git-logo.png)
+![GitHub Logo](/images_gitPages/git-logo.jpg)
 
 Para poder entender mejor en que consiste este proyecto, hace falta explicar varios términos, como:
 
