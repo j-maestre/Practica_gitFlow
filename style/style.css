@@ -1,0 +1,41 @@
+#lista1 {
+    font-family:Arial;
+    font-weight:bold;
+    font-size:13px;
+}
+.separador {
+    color:gray;
+}
+#lista1 li {
+     display:inline;
+     padding-left:3px;
+     padding-right:3px;
+    background-color:black;
+}
+a {
+    color:white;
+    text-decoration:none;
+}
+a:hover {
+    color:black;
+    background-color:lightgray;
+}
+
+#lista1{
+    padding-left: 35%;
+}
+
+#curso{
+    padding-left: 45%;
+}
+
+#footer{
+    padding-left: 40%;
+    padding-top: 30%;
+    font-size: 50px;
+}
+
+.desc{
+    padding-left: 40%;
+    padding-top: 10%;   
+}
