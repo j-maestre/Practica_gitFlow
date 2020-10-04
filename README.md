@@ -41,3 +41,8 @@ USUARIO 1
 
 
 El usuario 1 es el mas experimentado, y es el que se encargará de crear el repositorio del proyecto y de la estructura inicial de la pagina, donde incluirá la cabecera, la barra de lanevagcion con el acceso a home y el footer. En la parte central del home incluirá una breve descripcion del curso
+
+![GitHub Logo](/images_gitPages/g_page.png)
+![GitHub Logo](/images_gitPages/g_page2.png)
+
+
